@@ -1,0 +1,9 @@
+venv
+Salary_Prediction.egg-info
+__pycache__
+*.pyc
+*.pyo
+.DS_Store
+*.log
+*.ipynb_checkpoints
+*.env
